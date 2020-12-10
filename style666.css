@@ -1,0 +1,35 @@
+img{
+	width:10%;
+	height:10%;
+    margin-left: 30%;
+    margin-right: 30% ;
+}
+body{
+	margin-left: auto;
+	margin-right: auto;
+	font-family:標楷體;
+}
+.one{ 
+   color: black;
+   font-size: 50pt;
+   margin-top: auto;
+   margin-bottom: auto;
+   margin-left: 30%;
+   margin-right: 30% ;
+   background-color: lightblue;
+
+}
+.two{
+   color:teal;
+   border-style: inset;
+   margin-top: auto;
+   margin-bottom: auto;
+   margin-left: 30%;
+   margin-right: 30% ;
+
+}
+.three{
+	color: maroon ;
+	position:relative;
+	bottom:-5px; 
+}
